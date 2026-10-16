@@ -1,4 +1,4 @@
-name: Minecraft NPC Bot 24/7
+name: ubjhbiij
 
 on:
   push:
@@ -22,6 +22,7 @@ jobs:
       
     - name: Ejecutar script del NPC
       run: node bot.js
+      
 
 
     - name: Ejecutar script del NPC
